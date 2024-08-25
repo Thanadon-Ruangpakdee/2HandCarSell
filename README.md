@@ -1,18 +1,25 @@
 # Project 01: Car Market Analytics 
 
-This project focuses on providing a comprehensive dashboard and highlight features, with an emphasis on visualizations and graphs to help users gain insights from the data.
+This project is a website for used car dealership owners, focusing on developing a comprehensive dashboard with standout features. It emphasizes creating visualizations and graphs that enable users to gain actionable insights from their data.
 
 <img src="https://github.com/Thanadon-Ruangpakdee/2HandCarSell/blob/main/2handcar.gif" alt="screenshot" width="750" height="400/">
 
 ## Tool for this project
 
 🚨   React
+
 🚨   React-Icon
+
 🚨   React-Bootstrap
+
 🚨   Vite
+
 🚨   Bootstrap
+
 🚨   React-Chartjs
+
 🚨   React-Router
+
 🚨   ChartJS
 
 ## Highlighted Features
