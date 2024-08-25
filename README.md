@@ -5,7 +5,9 @@ This project focuses on providing a comprehensive dashboard and highlight featur
 <img src="https://github.com/Thanadon-Ruangpakdee/2HandCarSell/blob/main/2handcar.gif" alt="screenshot" width="750" height="400/">
 
 ## Tool for this project
+
 🚨   React
+🚨   React-Icon
 🚨   React-Bootstrap
 🚨   Vite
 🚨   Bootstrap

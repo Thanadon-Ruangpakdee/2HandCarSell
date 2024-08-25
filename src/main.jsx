@@ -2,10 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 import Root from './pages/root';
-import Dashboard from './pages/Dashboard';
-import HighlightedCars from './pages/HighlightedCars';
-import CarList from './pages/CarList';
-import Welcome from './pages/Welcome';  
+import Dashboard from './pages/DashboardPage';
+import HighlightedCars from './pages/HighlightedCarsPage';
+import CarList from './pages/CarListPage';
+import Welcome from './pages/WelcomePage';  
 import './index.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
